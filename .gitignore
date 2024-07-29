@@ -1,0 +1,44 @@
+
+# Build directory
+/build/
+
+# CMake cache and configuration files
+CMakeCache.txt
+CMakeFiles/
+CMakeLists.txt.user
+CMakeLists.txt.user.cmake
+CMakeLists.txt.user.autosave
+CMakeLists.txt.user.saved
+cmake_install.cmake
+Makefile
+build.ninja
+
+# Compiled object files and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Executable binaries
+*.out
+*.exe
+*.app
+
+# IDE or editor specific files (examples for common IDEs)
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.user
+
+# macOS specific files
+*.DS_Store
+
+# Windows specific files
+Thumbs.db
