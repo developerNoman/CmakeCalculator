@@ -5,7 +5,7 @@ int add(int ac, int b)
     return ac + b;
 }
 
-int subtract(int da, int b)
+int subtract(int a, int b)
 {
-    return da - b;
+    return a - b;
 }
